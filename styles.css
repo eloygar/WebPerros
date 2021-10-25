@@ -1,0 +1,29 @@
+body{
+
+background-color:rgb(12, 65, 212);
+
+
+}
+
+section{
+border : 1px solid black;
+margin : 10px;
+max-width: 300px;
+box-shadow: 0 20px 25px -5px rgba( 0,0,0,0,1), 0 10 px 10px -5px rgba(0,0,0,0,04);
+border-radius: 10px;
+padding: 5px;
+background-color: aliceblue;
+
+}
+section>div{
+
+display :flex ;
+
+}
+
+section>div>img{
+
+    width: 80%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
