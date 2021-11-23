@@ -2,5 +2,7 @@
 git init 
 git add .
 
-[] easy
-[x] check
+
+- [ ] Mercury
+- [x] task
+- [ ] task2 
